@@ -6,7 +6,7 @@
 背景顏色積木:場景➡畫面
 {% endhint %}
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ### 👉設定地圖
 
@@ -16,7 +16,7 @@
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 ### 👉 設定角色
 
@@ -26,7 +26,7 @@
 角色積木:角色➡創建
 {% endhint %}
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ![](.gitbook/assets/image%20%286%29.png)
 
@@ -44,7 +44,7 @@
 位置積木:角色➡物理
 {% endhint %}
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### 👉 設定輸贏
 
@@ -56,7 +56,9 @@
 遊戲輸贏:遊戲➡遊戲控制
 {% endhint %}
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
+### 👉 下載
 
+![](.gitbook/assets/image%20%2815%29.png)
 
