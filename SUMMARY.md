@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Meowbit](README.md)
+* [迷宮小遊戲 😏](maze.md)
 
