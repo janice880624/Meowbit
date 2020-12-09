@@ -1,3 +1,7 @@
+---
+description: 'https://janicekuo.gitbook.io/meowbit/v/main/maze'
+---
+
 # 迷宮小遊戲 😏
 
 ### 👉設定背景顏色
