@@ -96,5 +96,9 @@ description: 'https://janicekuo.gitbook.io/meowbit/v/main/fly'
 
 ### 👉 遊戲下載
 
+{% hint style="success" %}
+遊戲連結 [https://makecode.com/\_CFEJJvWxUDY0](https://makecode.com/_CFEJJvWxUDY0)
+{% endhint %}
+
 {% file src=".gitbook/assets/arcade-xiang-su-niao-.uf2" %}
 
