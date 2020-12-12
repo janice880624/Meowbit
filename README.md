@@ -14,6 +14,6 @@ description: >-
 * Dimensions: 52x76x12\(mm\)
 
 {% hint style="info" %}
-官方文件 [https://meowbit-doc.kittenbot.cn/\#/](https://meowbit-doc.kittenbot.cn/#/)
+官方文件[https://meowbit-doc.kittenbot.cn/\#/](https://meowbit-doc.kittenbot.cn/#/)
 {% endhint %}
 
