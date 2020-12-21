@@ -37,7 +37,11 @@ description: 'https://makecode.com/_b7A1DcYMVfMH'
 ### 👉 遊戲下載
 
 {% hint style="success" %}
-遊戲連結:[https://makecode.com/\_b7A1DcYMVfMH](https://makecode.com/_b7A1DcYMVfMH)
+遊戲連結 : [https://makecode.com/\_b7A1DcYMVfMH](https://makecode.com/_b7A1DcYMVfMH)
+{% endhint %}
+
+{% hint style="info" %}
+遊戲連結 : [https://makecode.com/\_F56JHV9UFLeV](https://makecode.com/_F56JHV9UFLeV)
 {% endhint %}
 
 {% file src=".gitbook/assets/arcade-jian-dan-xiao-you-xi-.uf2" %}
