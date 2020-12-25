@@ -1,5 +1,5 @@
 ---
-description: 'https://makecode.com/_b7A1DcYMVfMH'
+description: 'https://janicekuo.gitbook.io/meowbit/v/main/easygame'
 ---
 
 # 簡單小遊戲
