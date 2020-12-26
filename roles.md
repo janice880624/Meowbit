@@ -42,3 +42,9 @@ description: 'https://janicekuo.gitbook.io/meowbit/v/main/roles'
 
 ![](.gitbook/assets/image%20%2852%29.png)
 
+### 👉遊戲下載
+
+{% hint style="success" %}
+下載連結:[htps://makecode.com/\_3gJCjAY1YeDo](https://makecode.com/_3gJCjAY1YeDo)
+{% endhint %}
+
