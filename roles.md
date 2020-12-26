@@ -4,11 +4,41 @@ description: 'https://janicekuo.gitbook.io/meowbit/v/main/roles'
 
 # 角色建立
 
-1.在16x16白紙上畫出自己喜歡的車子
+### 👉角色設計
+
+在16x16白紙上畫出自己喜歡的車子
 
 ![](.gitbook/assets/image%20%2849%29.png)
 
-2. 建立腳角==
+### 👉建立角色
 
-![](.gitbook/assets/image%20%2850%29.png)
+{% hint style="info" %}
+角色 ➡ Create ➡  建立新變數
+{% endhint %}
+
+![](.gitbook/assets/image%20%2851%29.png)
+
+### 👉移動角色
+
+{% hint style="info" %}
+控制器➡單個玩家
+{% endhint %}
+
+![](.gitbook/assets/image%20%2854%29.png)
+
+### 👉角色效果
+
+{% hint style="info" %}
+角色➡效果
+{% endhint %}
+
+![](.gitbook/assets/image%20%2853%29.png)
+
+### 👉將角色留住
+
+{% hint style="info" %}
+角色➡效果
+{% endhint %}
+
+![](.gitbook/assets/image%20%2852%29.png)
 
