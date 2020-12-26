@@ -18,26 +18,26 @@ description: 'https://janicekuo.gitbook.io/meowbit/v/main/roles'
 
 ![](.gitbook/assets/image%20%2851%29.png)
 
-### 👉移動角色
+### 👉 移動角色
 
 {% hint style="info" %}
-控制器➡單個玩家
+控制器 ➡ 單個玩家
 {% endhint %}
 
 ![](.gitbook/assets/image%20%2854%29.png)
 
-### 👉角色效果
+### 👉 角色效果
 
 {% hint style="info" %}
-角色➡效果
+角色 ➡ 效果
 {% endhint %}
 
 ![](.gitbook/assets/image%20%2853%29.png)
 
-### 👉將角色留住
+### 👉 將角色留住
 
 {% hint style="info" %}
-角色➡效果
+角色 ➡ 效果
 {% endhint %}
 
 ![](.gitbook/assets/image%20%2852%29.png)
