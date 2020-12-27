@@ -2,7 +2,7 @@
 description: 'https://janicekuo.gitbook.io/meowbit/v/main/easygame'
 ---
 
-# 簡單小遊戲
+# 簡單小遊戲 🎮
 
 ![](.gitbook/assets/image%20%2846%29.png)
 
