@@ -6,6 +6,6 @@
 * [簡單小遊戲 🎮](easygame.md)
 * [迷宮小遊戲 😏](maze.md)
 * [飛行小遊戲 🐦](fly.md)
-* [太空垃圾大作戰](tai-kong-la-ji-da-zuo-zhan.md)
-* [離線小恐龍](li-xian-xiao-kong-long.md)
+* [太空垃圾大作戰 🌑](space-garbage.md)
+* [離線小恐龍 🦕](offline-dinosaur.md)
 
