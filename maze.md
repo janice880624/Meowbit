@@ -66,3 +66,13 @@ description: 'https://janicekuo.gitbook.io/meowbit/v/main/maze'
 
 ![](.gitbook/assets/image%20%2815%29%20%281%29.png)
 
+{% embed url="https://makecode.com/\_YM12cm2U2T0y" %}
+
+{% embed url="https://makecode.com/\_Y5aat13UbF6m" %}
+
+{% embed url="https://makecode.com/\_TWhMWFX0sTov" %}
+
+
+
+
+
